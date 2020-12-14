@@ -5,8 +5,8 @@
  *      Author: handiko
  */
 
-#ifndef INC_TYPEOFSHIP_H_
-#define INC_TYPEOFSHIP_H_
+#ifndef INC_TYPEOFSHIP_HPP_
+#define INC_TYPEOFSHIP_HPP_
 
 #define PILOT_VESSEL 50
 #define SEARCH_AND_RESCUE 51
@@ -39,4 +39,4 @@
 #define SAILING 36
 #define PLEASURE 37
 
-#endif /* INC_TYPEOFSHIP_H_ */
+#endif /* INC_TYPEOFSHIP_HPP_ */
